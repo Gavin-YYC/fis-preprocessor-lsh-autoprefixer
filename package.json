@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^6.5.1",
+    "postcss": "^5.2.5"
+  },
+  "name": "fis-preprocessor-lsh-autoprefixer",
+  "description": "fis-preprocessor-lsh-autoprefixer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^6.5.1",
+    "postcss": "^5.2.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gavin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gavin-YYC/fis-preprocessor-lsh-autoprefixer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gavin-YYC/fis-preprocessor-lsh-autoprefixer/issues"
+  },
+  "homepage": "https://github.com/Gavin-YYC/fis-preprocessor-lsh-autoprefixer#readme"
+}
